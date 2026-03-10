@@ -137,6 +137,23 @@ Laufzeit: 5 Jahre
 | **Gesamt:** |            |      |         | **17.250€** |
 
 # Entscheidungsmatrix / Scoringmodell
+Mit einer Entscheidungsmatrix können fundierte Entscheidung unter Berücksichtigung einzelner Kriterien getroffen werden. Dabei können diese verschieden Gewichtet werden um besser auf die Anforderung der Entscheidung einzugehen.
+
+In der Praxis hat sich folgendes herausgestellt:
+- Die Existenz eines Kriteriums bei einer Option sagt nichts über die Qualität aus
+- Die Menge der Kriterien beeinflusst die zu wählende Alternative
+- Die Gewichtung der Kriterien ist wesentlich für die Entscheidungsfindung
+
+## Aufbau
+| Kriterium   | Gewichtung | Option 1 | Option 2 | Option 3 |
+| ----------- | ---------- | -------- | -------- | -------- |
+| Kriterium 1 | 30         | 4        | 7        | 6        |
+| Kriterium 2 | 20         | 2        | 8        | 4        |
+| Kriterium 3 | 50         | 9        | 1        | 4        |
+| Gesamt      | 100        | 610      | 420      | 460      |
+
+Bei der Gewichtung wird festgelegt mit welchem Multiplikator die einzelnen Kriterien betrachtet werden. Die Gewichtung sollte in Summe 100 ergeben. Die Einzelnen Punkte der Optionen sollten auf einer Skala zwischen 0 - 10 liegen.
+
 # Projektmanagement
 # Projektstrukturplan
 ## Gantt-Diagramm
