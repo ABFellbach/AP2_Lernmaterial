@@ -44,6 +44,8 @@ Prozesswegweiser sind Hinweise auf andere Prozesse. Das Symbol ist ein Rechteck,
 |- Gelesen wird von oben nach unten<br>- Beginn und Ende ist immer ein Ereignis<br>- Organisationseinheiten und Informationsobjekte sind Symbole der eEPK<br>- Der Informationsfluss wird durch Pfeile dargestellt<br>- Ereignisse und Funktionen haben jeweils einen Ein- und Ausgang<br>- Ausnahme: Anfangsereignis (kein Eingang), Endereignis (kein Ausgang)<br>- Treffen mehrere Ereignisse auf eine Funktion, sind Konnektoren nötig<br>- Ereignisse sind passiv, daher keine OR-/XOR-Aufspaltung zu mehreren Funktionen|![image](prozessablaufEPK.png)|
 
 # Organigramme
+Organigramme sind grafische Darstellungen des hierachischen Aufbaus der Organisationseinheiten in einer Organisation. 
+
 # Finanzierung
 ## Darlehen
 ## Innen/Außen
