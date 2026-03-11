@@ -226,13 +226,50 @@ Je komplexer eine Netzwerkinfrastruktur wird, desto aufwändiger wird es Netzwer
     - Verschlüsselung per DES oder AES
     - Zugriffskontrolle um zu bestimmen, welcher User auf was zugreifen darf
 
-## MIB
+## OID
+Jedes Netzwerkgerät stellt aufgrund seiner Funktionen unterschiedliche Abfragemöglichkeiten bereit. Um diese gezielt ansprechen zu können, gibt es sogenannte OIDs (= Object Identifier).
 
+Diese kann man sich wie eine Telefonnummer mit Vorwahl vorstellen. Hier ein Beispiel einer OID um den hinterlegten Standort eines Gerätes auszulesen:
+
+`1.3.6.1.2.1.1.6.0`
+
+```mermaid
+flowchart TD
+    iso(1 iso) --- org(3 org)
+    org --- dod(6 dod)
+    dod --- int(1 internet)
+    int --- dir(1 directory)
+    dir --- mgmt(2 mgmt)
+    mgmt --- mib-2(1 mib-2)
+    mib-2 --- sys(1 system)
+    sys -.- sysName(5 sysName)
+    sys --- sysLoc(6 sysLocation)
+
+    dir -.- exp(3 experimental)
+    dir -.- priv(4 private)
+    priv -.- ent(1 enterprise)
+    ent -.- ibm(2 ibm)
+    ent -.- cis(9 cisco)
+    ent -.- hp(11 hp)
+```
+
+Eine OID teilt sich dabei 
+WIP, source: https://www.enteksystems.de/blog/was-ist-snmp-grundlagen-begriffe-beispiele
 
 ## Protokolloperationen
 **GetRequest**
 
+**GetNextRequest**
 
+**GetResponse**
+
+**SetRequest**
+
+**Trap**
+
+**GetBulkRequest**
+
+**InformRequest**
 
 # Server (AAA)
 # RAID
