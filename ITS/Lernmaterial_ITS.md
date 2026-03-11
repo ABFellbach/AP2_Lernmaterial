@@ -253,7 +253,19 @@ flowchart TD
     ent -.- hp(11 hp)
 ```
 
-Eine OID teilt sich dabei 
+Eine OID teilt sich dabei von Links nach Rechts in eine hierarchische Baumstruktur auf. Die ersten 4 Stellen sind hierbei in 99% der Fälle immer gleich:
+
+    1 (= iso) | Organisation, welche den SNMP Standard etabliert hat.
+    3 (= org) | Verzeichnis für alle Organisationen.
+    6 (= dod) | US Department of Defense. Dies hat historische Gründe, da die Organisation das ursprüngliche Internet initiiert hat.
+    1 (= internet) | Kommunikation erfolgt über das Internet
+
+Danach verzweigt sich die OID hauptsächlich in zwei weitere Hauptbereiche:
+
+    2 (= mgmt) | Offizielle / reservierter Standardbereich, welcher von der IANA verwaltet wird
+    4 (= private) | Andere private Institutionen, welche OIDs definieren wie z.B. Gerätehersteller 
+
+
 WIP, source: https://www.enteksystems.de/blog/was-ist-snmp-grundlagen-begriffe-beispiele
 
 ## Protokolloperationen
