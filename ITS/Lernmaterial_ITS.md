@@ -200,6 +200,40 @@ Um verschiedene Dienste bereitzustellen benötigt es meist mehrere verschiedene 
 Als Hypervisor bezeichnet man die Schicht zwischen Hardware des Hostsystems und den virtualisierten Gastsystemen. Mit einem Hypervisor können Virtuelle Maschinen erstellt und verwaltet werden. Dabei werden die vorhandenen Ressourcen auf die Gastsysteme verteilt.
 
 # SNMP
+Je komplexer eine Netzwerkinfrastruktur wird, desto aufwändiger wird es Netzwerkelemente (z.B. Router, Server, Switches, etc) zu überwachen und verwalten. Dafür wurde das Simple Network Management Protocol, kurz SNMP entwickelt. Dabei regelt das Protokoll die Kommunikation zwischen den überwachten Geräten und der Netzwerkmanagement-Station.
+
+## Versionen
+1. SNMPv1
+    - Fünf Protokolloperationen (PDU): 
+        - GetRequest 
+        - GetNextRequest
+        - GetResponse
+        - SetRequest
+        - Trap
+    - Authentifizerung über unverschlüsselte Community-Strings
+
+2. SNMPv2
+    - Protokolloperationen von v1 + folgende:
+        - GetBulkRequest
+        - InformRequest
+    - erweiterte Datentypen um mehr Informationen übertragen zu können
+    - Weiterhin Authentifizerung über unverschlüsselte Community-Strings
+
+3. SNMPv3
+    - Protokolloperationen der vorherigen Versionen
+    - Authentifizerung über User-based Security Model (USM)
+    - Integritätskontrolle über Hashing
+    - Verschlüsselung per DES oder AES
+    - Zugriffskontrolle um zu bestimmen, welcher User auf was zugreifen darf
+
+## MIB
+
+
+## Protokolloperationen
+**GetRequest**
+
+
+
 # Server (AAA)
 # RAID
 # IP
