@@ -184,7 +184,21 @@ Transport Layer Security, auch bekannt unter der Vorgängerbezeichnung Secure So
     Aus dem Pre-Master-Secret wird ein Master-Secret abgeleitet, das als Session Key für die verschlüsselte Kommunikation dient.
 
 # Virtualisierung
+Um verschiedene Dienste bereitzustellen benötigt es meist mehrere verschiedene Server. Um nicht für jeden Dienst einen eigenen, dedizierten Server bereitstellen zu müssen gibt es die Möglichkeit zu Virtualisieren. Dabei wird Hard- oder Software emuliert, um mit einem physischen Server (dem Host) mehrere Betriebssysteme bereitzustellen. Die virtualisierten Systeme nennt man Virtuelle Maschinen (VM).
+
+**Vorteile:**
+- weniger Hardware benötigt
+- bessere Ausnutzung der Ressourcen durch effizentere Verteilung
+- bessere Skalierbarkeit
+
+**Nachteile:**
+- höheres Single Point of Failure Risiko
+- komplexere Verwaltung
+- Performance-Einbußen
+
 ## Hypervisor
+Als Hypervisor bezeichnet man die Schicht zwischen Hardware des Hostsystems und den virtualisierten Gastsystemen. Mit einem Hypervisor können Virtuelle Maschinen erstellt und verwaltet werden. Dabei werden die vorhandenen Ressourcen auf die Gastsysteme verteilt.
+
 # SNMP
 # Server (AAA)
 # RAID
