@@ -295,3 +295,4 @@ WIP, source: https://www.enteksystems.de/blog/was-ist-snmp-grundlagen-begriffe-b
 # MQTT
 # USV
 ## Online, offline, hybrid
+# I2C
