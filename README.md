@@ -2,11 +2,11 @@
 Meine private Wissensammlung als Vorbereitung auf die AP2.
 
 Markdown Files: <br>
-[BWL](/BWL/Lernmaterial_BWL.md)<br>
-[ITS](/ITS/Lernmaterial_ITS.md)<br>
-[SAE](/SAE/Lernmaterial_SAE.md)<br>
+[BWL](Lernmaterial_BWL.md)<br>
+[ITS](Lernmaterial_ITS.md)<br>
+[SAE](Lernmaterial_SAE.md)<br>
 
 PDF Files: <br>
-[BWL](/BWL/Lernmaterial_BWL.pdf)<br>
-[ITS](/ITS/Lernmaterial_ITS.pdf)<br>
-[SAE](/SAE/Lernmaterial_SAE.pdf)<br>
+[BWL](Lernmaterial_BWL.pdf)<br>
+[ITS](Lernmaterial_ITS.pdf)<br>
+[SAE](Lernmaterial_SAE.pdf)<br>
