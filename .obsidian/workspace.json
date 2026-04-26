@@ -11,10 +11,14 @@
             "id": "0542dff574ed32bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_Knowledgebase/02_Sicherheit&Kryptografie/Schutzbedarfsanalyse.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Schutzbedarfsanalyse"
             }
           }
         ]
@@ -176,24 +180,69 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8fdf1b368b4dc6c3",
+  "floating": {
+    "id": "4ba71a3742afea67",
+    "type": "floating",
+    "children": [
+      {
+        "id": "922c43c63d061b55",
+        "type": "window",
+        "children": [
+          {
+            "id": "51efdedb8979659c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cd8d819bbac5074d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00_Struktur/Checkliste Knowledgebase-Artikel.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Checkliste Knowledgebase-Artikel"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1331,
+        "y": 645,
+        "width": 520,
+        "height": 473,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0542dff574ed32bc",
   "lastOpenFiles": [
+    "Lernfortschritt.md",
+    "README.md",
+    "Untitled Kanban.md",
+    "01_Knowledgebase/02_Sicherheit&Kryptografie/Schutzbedarfsanalyse.md",
+    "00_Struktur/Checkliste Knowledgebase-Artikel.md",
+    "01_Knowledgebase/02_Sicherheit&Kryptografie/Verschluesselung_Sym_Asym.md",
+    "00_Struktur",
+    "01_Knowledgebase/01_Netzwerktechnik/Hierarchical Network Model.md",
     "01_Knowledgebase/03_Systeme_Virtualisierung/New Textdokument.txt",
     "01_Knowledgebase/03_Systeme_Virtualisierung",
-    "01_Knowledgebase/02_Sicherheit_Kryptografie/VPN_SiteToSite_Remote.md",
-    "01_Knowledgebase/02_Sicherheit_Kryptografie/Verschluesselung_Sym_Asym.md",
-    "01_Knowledgebase/02_Sicherheit_Kryptografie/Firewall_Arten_Regelwerke.md",
-    "01_Knowledgebase/02_Sicherheit_Kryptografie/BSI_Schutzbedarfsanalyse.md",
-    "01_Knowledgebase/02_Sicherheit_Kryptografie",
+    "01_Knowledgebase/02_Sicherheit&Kryptografie/VPN_SiteToSite_Remote.md",
+    "01_Knowledgebase/02_Sicherheit&Kryptografie/Firewall_Arten_Regelwerke.md",
+    "01_Knowledgebase/02_Sicherheit&Kryptografie",
     "01_Knowledgebase/01_Netzwerktechnik/VLANs_IEEE_802.1Q.md",
     "01_Knowledgebase/01_Netzwerktechnik/Routing_Statisch_Dynamisch.md",
     "01_Knowledgebase/01_Netzwerktechnik/OSI_Modell.md",
     "01_Knowledgebase/01_Netzwerktechnik/IPv6_Adresskonzepte.md",
     "01_Knowledgebase/01_Netzwerktechnik/IPv4_VLSM_Subnetting.md",
-    "01_Knowledgebase/01_Netzwerktechnik/Hierarchical_Network_Model.md",
     "01_Knowledgebase/01_Netzwerktechnik",
     "01_Knowledgebase/01_03_Systeme_Virtualisierung",
     "01_Knowledgebase/New folder",
@@ -211,12 +260,7 @@
     "01_Knowledgebase/01_01_Netzwerktechnik/VLANs_IEEE_802.1Q.md",
     "01_Knowledgebase/01_01_Netzwerktechnik/IPv6_Adresskonzepte - Copy.md",
     "01_Knowledgebase/01_01_Netzwerktechnik/IPv6_Adresskonzepte.md",
-    "01_Knowledgebase/01_01_Netzwerktechnik/IPv4_VLSM_Subnetting - Copy.md",
-    "01_Knowledgebase/01_01_Netzwerktechnik/IPv4_VLSM_Subnetting.md",
-    "01_Knowledgebase/01_01_Netzwerktechnik/Hierarchical_Network_Model - Copy.md",
     "01_Knowledgebase/01_01_Netzwerktechnik/New Textdokument.txt",
-    "01_Knowledgebase/01_01_Netzwerktechnik",
-    "01_Knowledgebase",
     "Netzwerkinfrastruktur & Übertragung (Layer 1)/_Media/Cisco 3-Layer Model.png",
     "Untitled.canvas",
     "_Archive/BWL/EPK_XOR.png",
