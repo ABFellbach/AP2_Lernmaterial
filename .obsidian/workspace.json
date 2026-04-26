@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledgebase/02_Sicherheit&Kryptografie/Schutzbedarfsanalyse.md",
+                "file": "01_Knowledgebase/02_Sicherheit&Kryptografie/Schutzziele & Bedarfsanalyse.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Schutzbedarfsanalyse"
+              "title": "Schutzziele & Bedarfsanalyse"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a45aa41319b90930",
@@ -181,7 +182,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "floating": {
@@ -214,10 +216,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1331,
-        "y": 645,
-        "width": 520,
-        "height": 473,
+        "x": 960,
+        "y": 756,
+        "width": 960,
+        "height": 324,
         "maximize": false,
         "zoom": 0
       }
@@ -225,11 +227,17 @@
   },
   "active": "0542dff574ed32bc",
   "lastOpenFiles": [
+    "03_Prüfungsarchiv/Winter 2025/235 Konzeption.pdf",
+    "03_Prüfungsarchiv/Winter 2025/235 Konzeption Loesung.pdf",
+    "03_Prüfungsarchiv/Winter 2025/235 Analyse.pdf",
+    "03_Prüfungsarchiv/Winter 2025/235 Analyse Loesung.pdf",
+    "03_Prüfungsarchiv/Winter 2025",
+    "00_Struktur/Checkliste Knowledgebase-Artikel.md",
+    "01_Knowledgebase/02_Sicherheit&Kryptografie/Schutzziele & Bedarfsanalyse.md",
+    "Untitled.md",
     "Lernfortschritt.md",
     "README.md",
     "Untitled Kanban.md",
-    "01_Knowledgebase/02_Sicherheit&Kryptografie/Schutzbedarfsanalyse.md",
-    "00_Struktur/Checkliste Knowledgebase-Artikel.md",
     "01_Knowledgebase/02_Sicherheit&Kryptografie/Verschluesselung_Sym_Asym.md",
     "00_Struktur",
     "01_Knowledgebase/01_Netzwerktechnik/Hierarchical Network Model.md",
@@ -245,7 +253,6 @@
     "01_Knowledgebase/01_Netzwerktechnik/IPv4_VLSM_Subnetting.md",
     "01_Knowledgebase/01_Netzwerktechnik",
     "01_Knowledgebase/01_03_Systeme_Virtualisierung",
-    "01_Knowledgebase/New folder",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/Verschluesselung_Sym_Asym.md",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/VPN_SiteToSite_Remote - Copy.md",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/VPN_SiteToSite_Remote.md",
@@ -253,14 +260,9 @@
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/Firewall_Arten_Regelwerke.md",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/BSI_Schutzbedarfsanalyse - Copy.md",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/BSI_Schutzbedarfsanalyse.md",
-    "01_Knowledgebase/01_02_Sicherheit_Kryptografie/New Textdokument.txt",
-    "01_Knowledgebase/01_02_Sicherheit_Kryptografie",
     "01_Knowledgebase/01_01_Netzwerktechnik/Routing_Statisch_Dynamisch.md",
     "01_Knowledgebase/01_01_Netzwerktechnik/VLANs_IEEE_802.1Q - Copy.md",
     "01_Knowledgebase/01_01_Netzwerktechnik/VLANs_IEEE_802.1Q.md",
-    "01_Knowledgebase/01_01_Netzwerktechnik/IPv6_Adresskonzepte - Copy.md",
-    "01_Knowledgebase/01_01_Netzwerktechnik/IPv6_Adresskonzepte.md",
-    "01_Knowledgebase/01_01_Netzwerktechnik/New Textdokument.txt",
     "Netzwerkinfrastruktur & Übertragung (Layer 1)/_Media/Cisco 3-Layer Model.png",
     "Untitled.canvas",
     "_Archive/BWL/EPK_XOR.png",
