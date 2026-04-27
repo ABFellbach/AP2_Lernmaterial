@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0542dff574ed32bc",
+            "id": "f4133b7a9a3c3fe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,16 @@
               },
               "icon": "lucide-file",
               "title": "Schutzziele & Bedarfsanalyse"
+            }
+          },
+          {
+            "id": "f6b09ed0545220b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -206,7 +216,7 @@
                   "state": {
                     "file": "00_Struktur/Checkliste Knowledgebase-Artikel.md",
                     "mode": "preview",
-                    "source": false
+                    "source": true
                   },
                   "icon": "lucide-file",
                   "title": "Checkliste Knowledgebase-Artikel"
@@ -216,43 +226,168 @@
           }
         ],
         "direction": "vertical",
-        "x": 960,
-        "y": 756,
-        "width": 960,
-        "height": 324,
+        "x": 832,
+        "y": 776,
+        "width": 1088,
+        "height": 256,
         "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "15172fe8198c9487",
+        "type": "window",
+        "children": [
+          {
+            "id": "cc53963b25874360",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "84ea562dc8a05771",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01_Knowledgebase/02_Sicherheit&Kryptografie/Schutzziele & Bedarfsanalyse.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Schutzziele & Bedarfsanalyse"
+                }
+              },
+              {
+                "id": "66d15e640e30efe1",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "03_Prüfungsarchiv/2023_Sommer/Sommer 2023 FISI Analyse.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Sommer 2023 FISI Analyse"
+                }
+              },
+              {
+                "id": "0856892ff1ef139a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "03_Prüfungsarchiv/2023_Sommer/Sommer 2023 FISI Konzeption.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Sommer 2023 FISI Konzeption"
+                }
+              },
+              {
+                "id": "0575a0abea4111b8",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "03_Prüfungsarchiv/2023_Winter/Winter 2023 FISI Konzeption Aufgaben.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Winter 2023 FISI Konzeption Aufgaben"
+                }
+              },
+              {
+                "id": "a8e0932eea834a36",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "03_Prüfungsarchiv/2025_Sommer/Sommer 2025 FISI Konzeption und Administration IT-Systeme.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Sommer 2025 FISI Konzeption und Administration IT-Systeme"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1920,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "b954e3230145c898",
+        "type": "window",
+        "children": [
+          {
+            "id": "d10b702d93b7a3ce",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0542dff574ed32bc",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Lernfortschritt.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Lernfortschritt"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 667,
+        "y": 83,
+        "width": 600,
+        "height": 714,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "0542dff574ed32bc",
   "lastOpenFiles": [
-    "03_Prüfungsarchiv/Winter 2025/235 Konzeption.pdf",
-    "03_Prüfungsarchiv/Winter 2025/235 Konzeption Loesung.pdf",
-    "03_Prüfungsarchiv/Winter 2025/235 Analyse.pdf",
-    "03_Prüfungsarchiv/Winter 2025/235 Analyse Loesung.pdf",
-    "03_Prüfungsarchiv/Winter 2025",
-    "00_Struktur/Checkliste Knowledgebase-Artikel.md",
     "01_Knowledgebase/02_Sicherheit&Kryptografie/Schutzziele & Bedarfsanalyse.md",
-    "Untitled.md",
+    "00_Struktur/Checkliste Knowledgebase-Artikel.md",
+    "03_Prüfungsarchiv/2025_Sommer/Sommer 2025 FISI Konzeption und Administration IT-Systeme.pdf",
+    "03_Prüfungsarchiv/2023_Winter/Winter 2023 FISI Konzeption Aufgaben.pdf",
     "Lernfortschritt.md",
+    "03_Prüfungsarchiv/2023_Sommer/Sommer 2023 FISI Konzeption.pdf",
+    "03_Prüfungsarchiv/2023_Sommer/Sommer 2023 FISI Analyse.pdf",
+    "00_Struktur/_Media/Sommer_2023_Analyse_Anlage4.png",
+    "00_Struktur/_Media/Sommer_2023_Analyse_Anlage3.png",
+    "00_Struktur/_Media/Sommer_2023_Analyse_Anlage1.png",
+    "00_Struktur/_Media",
+    "00_Struktur/Neuer Ordner",
+    "01_Knowledgebase/02_Sicherheit&Kryptografie/Verschluesselung_Sym_Asym.md",
+    "01_Knowledgebase/02_Sicherheit&Kryptografie/Firewall_Arten_Regelwerke.md",
+    "01_Knowledgebase/02_Sicherheit&Kryptografie/VPN_SiteToSite_Remote.md",
     "README.md",
     "Untitled Kanban.md",
-    "01_Knowledgebase/02_Sicherheit&Kryptografie/Verschluesselung_Sym_Asym.md",
-    "00_Struktur",
+    "Untitled.md",
+    "03_Prüfungsarchiv/2024_Winter/Winter 2024 FISI Konzeption - Lösung.pdf",
+    "03_Prüfungsarchiv/2024_Winter/Winter 2024 FISI Analyse.pdf",
+    "03_Prüfungsarchiv/2024_Winter/Winter 2024 FISI Analye - Lösung.pdf",
+    "03_Prüfungsarchiv/2024_Winter/Winter 2024 FISI Konzeption.pdf",
     "01_Knowledgebase/01_Netzwerktechnik/Hierarchical Network Model.md",
-    "01_Knowledgebase/03_Systeme_Virtualisierung/New Textdokument.txt",
-    "01_Knowledgebase/03_Systeme_Virtualisierung",
-    "01_Knowledgebase/02_Sicherheit&Kryptografie/VPN_SiteToSite_Remote.md",
-    "01_Knowledgebase/02_Sicherheit&Kryptografie/Firewall_Arten_Regelwerke.md",
-    "01_Knowledgebase/02_Sicherheit&Kryptografie",
     "01_Knowledgebase/01_Netzwerktechnik/VLANs_IEEE_802.1Q.md",
     "01_Knowledgebase/01_Netzwerktechnik/Routing_Statisch_Dynamisch.md",
     "01_Knowledgebase/01_Netzwerktechnik/OSI_Modell.md",
     "01_Knowledgebase/01_Netzwerktechnik/IPv6_Adresskonzepte.md",
     "01_Knowledgebase/01_Netzwerktechnik/IPv4_VLSM_Subnetting.md",
-    "01_Knowledgebase/01_Netzwerktechnik",
-    "01_Knowledgebase/01_03_Systeme_Virtualisierung",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/Verschluesselung_Sym_Asym.md",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/VPN_SiteToSite_Remote - Copy.md",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/VPN_SiteToSite_Remote.md",

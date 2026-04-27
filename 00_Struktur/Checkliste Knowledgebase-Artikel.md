@@ -1,5 +1,6 @@
-- [ ] **Definition & Ziel:** Was ist das? Wofür wird es gebraucht?
-- [ ] **Technische Details:** Fakten, Schichten im OSI-Modell, Standards (IEEE).
-- [ ] **Vergleiche (Wichtig für AP2):** z. B. IPv4 vs. IPv6 / Symmetrisch vs. Asymmetrisch.
-- [ ] **Rechenweg / Konfiguration:** Formeln oder CLI-Befehle.
-- [ ] **Prüfungsfokus:** Typische IHK-Fragen zu diesem Thema.
+- [x] **Definition & Ziel:** Was ist das? Wofür wird es gebraucht?
+- [x] **Technische Details:** Fakten, Schichten im OSI-Modell, Standards (IEEE).
+- [x] **Vergleiche (Wichtig für AP2):** z. B. IPv4 vs. IPv6 / Symmetrisch vs. Asymmetrisch.
+- [x] **Rechenweg / Konfiguration:** Formeln oder CLI-Befehle.
+- [x] **Prüfungsaufgaben**
+- [ ] Verweise
