@@ -4,17 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "a19764a220c00803",
+        "id": "fdffd8972553a54d",
         "type": "tabs",
         "children": [
           {
-            "id": "f4133b7a9a3c3fe5",
+            "id": "4b5b00c47fb062ec",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CheatSheet/CheatSheet.canvas",
+                "viewState": {
+                  "x": 950,
+                  "y": 223,
+                  "zoom": -1.4998339726979344
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CheatSheet"
+            }
+          },
+          {
+            "id": "209dc35efbf35369",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01_Knowledgebase/02_Sicherheit&Kryptografie/Schutzziele & Bedarfsanalyse.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -22,13 +39,17 @@
             }
           },
           {
-            "id": "f6b09ed0545220b9",
+            "id": "b7b87dc3a55459fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheet/IPv4 Subnetting.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "IPv4 Subnetting"
             }
           }
         ]
@@ -88,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "a45aa41319b90930",
@@ -167,16 +187,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Netzwerke&Infrastruktur/Hierarchical Network Model (Cisco 3-Layer Model).md",
+                "file": "CheatSheet/CheatSheet.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hierarchical Network Model (Cisco 3-Layer Model)"
+              "title": "Outline of CheatSheet"
+            }
+          },
+          {
+            "id": "cdebd304c93574fb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -197,197 +228,151 @@
     }
   },
   "floating": {
-    "id": "4ba71a3742afea67",
+    "id": "55d6611ff68479e7",
     "type": "floating",
     "children": [
       {
-        "id": "922c43c63d061b55",
+        "id": "534408204480ca22",
         "type": "window",
         "children": [
           {
-            "id": "51efdedb8979659c",
+            "id": "bfdd4f919f981449",
             "type": "tabs",
             "children": [
               {
-                "id": "cd8d819bbac5074d",
+                "id": "fbe23d7e1792f1f6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "00_Struktur/Checkliste Knowledgebase-Artikel.md",
+                    "file": "Aufgabensammlung.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Checkliste Knowledgebase-Artikel"
+                  "title": "Aufgabensammlung"
                 }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 832,
-        "y": 776,
-        "width": 1088,
-        "height": 256,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "15172fe8198c9487",
-        "type": "window",
-        "children": [
-          {
-            "id": "cc53963b25874360",
-            "type": "tabs",
-            "children": [
+              },
               {
-                "id": "84ea562dc8a05771",
+                "id": "bee1710a4dc22fa4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01_Knowledgebase/02_Sicherheit&Kryptografie/Schutzziele & Bedarfsanalyse.md",
+                    "file": "01_Knowledgebase/01_Netzwerktechnik/IPv4_VLSM_Subnetting.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Schutzziele & Bedarfsanalyse"
-                }
-              },
-              {
-                "id": "66d15e640e30efe1",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "03_Prüfungsarchiv/2023_Sommer/Sommer 2023 FISI Analyse.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Sommer 2023 FISI Analyse"
-                }
-              },
-              {
-                "id": "0856892ff1ef139a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "03_Prüfungsarchiv/2023_Sommer/Sommer 2023 FISI Konzeption.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Sommer 2023 FISI Konzeption"
-                }
-              },
-              {
-                "id": "0575a0abea4111b8",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "03_Prüfungsarchiv/2023_Winter/Winter 2023 FISI Konzeption Aufgaben.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Winter 2023 FISI Konzeption Aufgaben"
-                }
-              },
-              {
-                "id": "a8e0932eea834a36",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "03_Prüfungsarchiv/2025_Sommer/Sommer 2025 FISI Konzeption und Administration IT-Systeme.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Sommer 2025 FISI Konzeption und Administration IT-Systeme"
+                  "title": "IPv4_VLSM_Subnetting"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 1920,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
+        "x": -840,
+        "y": 32,
+        "width": 840,
+        "height": 1002,
         "maximize": false,
         "zoom": 0
       },
       {
-        "id": "b954e3230145c898",
+        "id": "e036832744ef95d5",
         "type": "window",
         "children": [
           {
-            "id": "d10b702d93b7a3ce",
+            "id": "e7e1a154e8fda003",
             "type": "tabs",
             "children": [
               {
-                "id": "0542dff574ed32bc",
+                "id": "163a38a6f5c874b8",
                 "type": "leaf",
                 "state": {
-                  "type": "kanban",
+                  "type": "markdown",
                   "state": {
-                    "file": "Lernfortschritt.md",
-                    "kanbanViewState": {
-                      "kanban-plugin": "board",
-                      "list-collapse": [
-                        false,
-                        false,
-                        false,
-                        false,
-                        false,
-                        false
-                      ]
-                    }
+                    "file": "CheatSheet/IPv4 Subnetting.md",
+                    "mode": "source",
+                    "source": true
                   },
-                  "icon": "lucide-trello",
-                  "title": "Lernfortschritt"
+                  "icon": "lucide-file",
+                  "title": "IPv4 Subnetting"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5a70b958ae31dbee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "952f15bf97ef5b20",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CheatSheet/IPv4 Subnetting.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "IPv4 Subnetting"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 667,
-        "y": 83,
-        "width": 600,
-        "height": 714,
-        "maximize": true,
+        "x": -1477,
+        "y": 95,
+        "width": 1395,
+        "height": 923,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "0542dff574ed32bc",
+  "active": "4b5b00c47fb062ec",
   "lastOpenFiles": [
+    "CheatSheet/IPv4 Subnetting.md",
+    "CheatSheet/CheatSheet.canvas",
     "01_Knowledgebase/02_Sicherheit&Kryptografie/Schutzziele & Bedarfsanalyse.md",
-    "00_Struktur/Checkliste Knowledgebase-Artikel.md",
-    "03_Prüfungsarchiv/2025_Sommer/Sommer 2025 FISI Konzeption und Administration IT-Systeme.pdf",
-    "03_Prüfungsarchiv/2023_Winter/Winter 2023 FISI Konzeption Aufgaben.pdf",
-    "Lernfortschritt.md",
-    "03_Prüfungsarchiv/2023_Sommer/Sommer 2023 FISI Konzeption.pdf",
-    "03_Prüfungsarchiv/2023_Sommer/Sommer 2023 FISI Analyse.pdf",
-    "00_Struktur/_Media/Sommer_2023_Analyse_Anlage4.png",
-    "00_Struktur/_Media/Sommer_2023_Analyse_Anlage3.png",
-    "00_Struktur/_Media/Sommer_2023_Analyse_Anlage1.png",
-    "00_Struktur/_Media",
-    "00_Struktur/Neuer Ordner",
-    "01_Knowledgebase/02_Sicherheit&Kryptografie/Verschluesselung_Sym_Asym.md",
+    "CheatSheet/DNS_Structure.png",
+    "Aufgabensammlung.md",
+    "CheatSheet/OSI.png",
+    "CheatSheet/IPv6_EUI-64.png",
+    "CheatSheet/IPv6_Adressformate.png",
+    "CheatSheet/IPv6_Adressformate.png",
+    "CheatSheet/IPv4_Subnetzmaske.png",
+    "CheatSheet",
+    "01_Knowledgebase/04_Wirtschaft_Prozesse/Projektmerkmale_GmbH_Recht.md",
     "01_Knowledgebase/02_Sicherheit&Kryptografie/Firewall_Arten_Regelwerke.md",
-    "01_Knowledgebase/02_Sicherheit&Kryptografie/VPN_SiteToSite_Remote.md",
-    "README.md",
-    "Untitled Kanban.md",
-    "Untitled.md",
-    "03_Prüfungsarchiv/2024_Winter/Winter 2024 FISI Konzeption - Lösung.pdf",
-    "03_Prüfungsarchiv/2024_Winter/Winter 2024 FISI Analyse.pdf",
-    "03_Prüfungsarchiv/2024_Winter/Winter 2024 FISI Analye - Lösung.pdf",
-    "03_Prüfungsarchiv/2024_Winter/Winter 2024 FISI Konzeption.pdf",
-    "01_Knowledgebase/01_Netzwerktechnik/Hierarchical Network Model.md",
     "01_Knowledgebase/01_Netzwerktechnik/VLANs_IEEE_802.1Q.md",
     "01_Knowledgebase/01_Netzwerktechnik/Routing_Statisch_Dynamisch.md",
     "01_Knowledgebase/01_Netzwerktechnik/OSI_Modell.md",
-    "01_Knowledgebase/01_Netzwerktechnik/IPv6_Adresskonzepte.md",
     "01_Knowledgebase/01_Netzwerktechnik/IPv4_VLSM_Subnetting.md",
+    "01_Knowledgebase/01_Netzwerktechnik/Hierarchical Network Model.md",
+    "03_Prüfungsarchiv/2022_Sommer/Sommer 2022 FISI Analyse Netzwerk.pdf",
+    "03_Prüfungsarchiv/2022_Sommer/Sommer 2022 FISI Konzeption IT-System.pdf",
+    "03_Prüfungsarchiv/2022_Sommer/Sommer 2022 FISI Konzeption IT-System Lösung.pdf",
+    "Untitled Kanban.md",
+    "00_Struktur/_Media/CiscoImages/laptop.jpg",
+    "00_Struktur/_Media/CiscoImages/workstation.jpg",
+    "00_Struktur/_Media/CiscoImages/accesspoint.jpg",
+    "00_Struktur/_Media/CiscoImages/file server.jpg",
+    "00_Struktur/_Media/CiscoImages",
+    "03_Prüfungsarchiv/2022_Sommer/Sommer 2022 FISI Analyse Netzwerk 2.pdf",
+    "Lernfortschritt.md",
+    "00_Struktur/Checkliste Knowledgebase-Artikel.md",
+    "03_Prüfungsarchiv/2025_Sommer/Sommer 2025 FISI Konzeption und Administration IT-Systeme.pdf",
+    "03_Prüfungsarchiv/2023_Winter/Winter 2023 FISI Konzeption Aufgaben.pdf",
+    "03_Prüfungsarchiv/2023_Sommer/Sommer 2023 FISI Konzeption.pdf",
+    "03_Prüfungsarchiv/2023_Sommer/Sommer 2023 FISI Analyse.pdf",
+    "01_Knowledgebase/02_Sicherheit&Kryptografie/Verschluesselung_Sym_Asym.md",
+    "01_Knowledgebase/02_Sicherheit&Kryptografie/VPN_SiteToSite_Remote.md",
+    "02_Übungen&Aufgaben/README.md",
+    "01_Knowledgebase/01_Netzwerktechnik/IPv6_Adresskonzepte.md",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/Verschluesselung_Sym_Asym.md",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/VPN_SiteToSite_Remote - Copy.md",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/VPN_SiteToSite_Remote.md",
@@ -395,13 +380,6 @@
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/Firewall_Arten_Regelwerke.md",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/BSI_Schutzbedarfsanalyse - Copy.md",
     "01_Knowledgebase/01_02_Sicherheit_Kryptografie/BSI_Schutzbedarfsanalyse.md",
-    "01_Knowledgebase/01_01_Netzwerktechnik/Routing_Statisch_Dynamisch.md",
-    "01_Knowledgebase/01_01_Netzwerktechnik/VLANs_IEEE_802.1Q - Copy.md",
-    "01_Knowledgebase/01_01_Netzwerktechnik/VLANs_IEEE_802.1Q.md",
-    "Netzwerkinfrastruktur & Übertragung (Layer 1)/_Media/Cisco 3-Layer Model.png",
-    "Untitled.canvas",
-    "_Archive/BWL/EPK_XOR.png",
-    "_Archive/BWL/EPK_Informationsobjekt.png",
-    "_Archive/BWL/EPK_Ereignis.png"
+    "01_Knowledgebase/01_01_Netzwerktechnik/Routing_Statisch_Dynamisch.md"
   ]
 }
