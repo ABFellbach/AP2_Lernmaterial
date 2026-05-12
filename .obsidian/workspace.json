@@ -15,12 +15,26 @@
               "state": {
                 "file": "CheatSheet/CheatSheet.canvas",
                 "viewState": {
-                  "x": 2178.5,
-                  "y": 224,
-                  "zoom": -2.0393875125583922
+                  "x": 4504.03853075236,
+                  "y": 162.77889123006804,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
+              "title": "CheatSheet"
+            }
+          },
+          {
+            "id": "163a38a6f5c874b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheet/CheatSheet.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
               "title": "CheatSheet"
             }
           },
@@ -50,6 +64,27 @@
               },
               "icon": "lucide-file",
               "title": "IPv4 Subnetting"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c931185520f758a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "321065abbdee3071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheet/CheatSheet.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CheatSheet"
             }
           }
         ]
@@ -287,88 +322,36 @@
         "height": 1254,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "e036832744ef95d5",
-        "type": "window",
-        "children": [
-          {
-            "id": "e7e1a154e8fda003",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "163a38a6f5c874b8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CheatSheet/IPv4 Subnetting.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "IPv4 Subnetting"
-                }
-              }
-            ]
-          },
-          {
-            "id": "5a70b958ae31dbee",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "952f15bf97ef5b20",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CheatSheet/IPv4 Subnetting.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "IPv4 Subnetting"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -550,
-        "y": 299,
-        "width": 1747,
-        "height": 1157,
-        "maximize": true,
-        "zoom": 0
       }
     ]
   },
-  "active": "05e2d9d58c48273b",
+  "active": "163a38a6f5c874b8",
   "lastOpenFiles": [
+    "CheatSheet/IT_Business_Cheatsheet_v3.pdf",
+    "CheatSheet/CheatSheet.canvas",
+    "CheatSheet/CheatSheet.pdf",
+    "CheatSheet/CheatSheet.md",
+    "CheatSheet/IPv6_Adressformate - Kopie.png",
+    "CheatSheet/IPv4_Subnetzmaske - Kopie.png",
+    "CheatSheet/EPK - Kopie.png",
+    "CheatSheet/DNS_Structure - Kopie.png",
+    "CheatSheet/DMZ_Vergleich - Kopie.jpg",
+    "CheatSheet/RAID_5.svg - Kopie.png",
+    "CheatSheet/RAID_1.svg - Kopie.png",
+    "CheatSheet/Unbenannt-1.png",
     "Aufgabensammlung.md",
     "CheatSheet/OSI.jpg",
     "CheatSheet/Nicht bestätigt 739432.crdownload",
-    "CheatSheet/IPv4 Subnetting.md",
-    "CheatSheet/CheatSheet.canvas",
     "CheatSheet/RAID_6.svg.png",
     "CheatSheet/Nicht bestätigt 199992.crdownload",
-    "CheatSheet/RAID_5.svg.png",
     "CheatSheet/Nicht bestätigt 915266.crdownload",
-    "CheatSheet/RAID_1.svg.png",
     "CheatSheet/Nicht bestätigt 822836.crdownload",
-    "CheatSheet/RAID_0.svg.png",
     "CheatSheet/Nicht bestätigt 226715.crdownload",
     "CheatSheet/LeereSeite.pdf",
-    "CheatSheet/EPK.png",
     "CheatSheet/Nicht bestätigt 44967.crdownload",
-    "CheatSheet/CheatSheet.png",
     "CheatSheet/RAID.jpg.~tmp",
-    "CheatSheet/RAID.jpg",
     "01_Knowledgebase/02_Sicherheit&Kryptografie/Schutzziele & Bedarfsanalyse.md",
     "CheatSheet/DMZ_Vergleich.jpg.~tmp",
-    "CheatSheet/DMZ_Vergleich.jpg",
-    "CheatSheet/DNS_Structure.png",
-    "CheatSheet",
     "01_Knowledgebase/04_Wirtschaft_Prozesse/Projektmerkmale_GmbH_Recht.md",
     "01_Knowledgebase/02_Sicherheit&Kryptografie/Firewall_Arten_Regelwerke.md",
     "01_Knowledgebase/01_Netzwerktechnik/VLANs_IEEE_802.1Q.md",

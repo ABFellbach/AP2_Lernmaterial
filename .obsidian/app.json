@@ -3,5 +3,11 @@
   "showLineNumber": true,
   "livePreview": false,
   "defaultViewMode": "preview",
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }
