@@ -48,3 +48,13 @@ graph LR
 	PC2([Client]) <-- Access Port --> SW2
 ```
 
+
+| Schicht       | Funktion                                | Einheiten | Protokolle                    |
+| ------------- | --------------------------------------- | --------- | ----------------------------- |
+| 7 Anwendung   | Benutzerinteraktion                     |           | HTTP(S), FTP, SMTP, DNS, SSH  |
+| 6 Darstellung | Datenumwandlung, Kompression            |           | HTTP(S), JPEG, PNG, GIF, SMTP |
+| 5 Sitzung     | Aufbau & Verwaltung Sitzungen           |           | FTP, HTTP, SMTP               |
+| 4 Transport   | Datenübertragung                        | Segmente  | TCP, UDP, SPX                 |
+| 3 Vermittlung | Routing, logische Adressierung          | Pakete    | IPv4, IPv6, DHCP              |
+| 2 Sicherung   | Fehlererkennung, physische Adressierung | Frames    | LLC/MAC, ARP                  |
+| 1 Übertragung | Schnittstelle zum Übertragungsmedium    | Bits      | Ethernet, FDDI                |
